@@ -1,6 +1,6 @@
 <!-- Banner image -->
 <p align="center">
-  <img src="" width="100%" alt="banner" />
+  <img src="https://github.com/SHEIKSAMEERAHAMMAD/SHEIKSAMEERAHAMMAD/blob/main/hey.gif" width="100%" alt="banner" />
 </p>
 ---
 
