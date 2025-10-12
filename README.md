@@ -1,9 +1,11 @@
-
+<!-- Banner image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" width="100%" />
+</p>
 ---
 
-### Hey! I'm Sameer 👋
-
-I'm a tech enthusiast who loves coding, learning, and building creative projects!
+### Hey! I'm Sameer 👋 
+A passionate developer who loves learning new technologies and building cool projects.
 
 ---
 
