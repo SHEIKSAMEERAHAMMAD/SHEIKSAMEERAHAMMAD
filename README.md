@@ -16,16 +16,15 @@ A passionate developer who loves learning new technologies and building cool pro
 - HTML | CSS | JavaScript  
 
 **Frameworks & Libraries**
-- Django | React.js  
+- Django
 
 **Databases**
-- MySQL | SQLite  
+- MySQL 
 
 **Tools & Platforms**
 - Git & GitHub  
 - VS Code | IntelliJ | PyCharm | Eclipse  
-- Anaconda | AWS  
-- REST APIs  
+- Anaconda 
 
 ---
 
