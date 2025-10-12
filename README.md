@@ -1,5 +1,7 @@
 <!-- Banner image -->
-
+<p align="center">
+  <img src="" width="100%" alt="banner" />
+</p>
 ---
 
 ### Hey! I'm Sameer 👋 
