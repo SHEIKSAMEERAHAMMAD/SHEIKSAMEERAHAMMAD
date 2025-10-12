@@ -1,6 +1,6 @@
 <!-- Banner image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" width="100%" />
+  <img src="https://raw.githubusercontent.com/SHEIKSAMEERAHAMMAD/SHEIKSAMEERAHAMMAD/master/code.gif" alt="coding" width="100%" />
 </p>
 ---
 
