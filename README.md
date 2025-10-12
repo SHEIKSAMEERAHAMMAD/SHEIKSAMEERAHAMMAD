@@ -1,8 +1,5 @@
 <!-- Banner image -->
-<p align="center">
-  <img src="<img width="900" height="520" alt="image" src="https://github.com/user-attachments/assets/c0c1c8ba-d282-4418-b797-f3d1057db143" />
-" alt="coding" width="100%" />
-</p>
+
 ---
 
 ### Hey! I'm Sameer 👋 
