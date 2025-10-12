@@ -37,54 +37,5 @@ A passionate developer who loves learning new technologies and building cool pro
     </td>
   </tr>
 </table>
-<div style="display: flex; justify-content: flex-end; align-items: flex-start;">
-  <div style="flex: 1; margin-right: 24px;">
-    <h3>🌐 Tech Stack</h3>
-    <b>Languages</b>
-    <ul>
-      <li>Python | Java</li>
-      <li>HTML | CSS | JavaScript</li>
-    </ul>
-    <b>Frameworks & Libraries</b>
-    <ul>
-      <li>Django</li>
-    </ul>
-    <b>Databases</b>
-    <ul>
-      <li>MySQL</li>
-    </ul>
-    <b>Tools & Platforms</b>
-    <ul>
-      <li>Git & GitHub</li>
-      <li>VS Code | IntelliJ | PyCharm | Eclipse</li>
-      <li>Anaconda</li>
-    </ul>
-  </div>
-  <div>
-    <img src="YOUR_IMAGE_URL" width="130" style="border-radius:10px;">
-  </div>
-</div>
-
-### 🧠 Tech Stack
-
-**Languages**
-- Python | Java  
-- HTML | CSS | JavaScript  
-  
-**Frameworks & Libraries**
-- Django 
-
-**Databases**
-- MySQL 
-
-**Tools & Platforms**
-- Git & GitHub  
-- VS Code | IntelliJ | PyCharm | Eclipse  
-- Anaconda 
-
----
-
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sameer-ahammad-sheik-407b1925a/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail)](mailto:sameerahammadsheik@gmail.com)
+=gmail)](mailto:sameerahammadsheik@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=instagram)](https://www.instagram.com/_sammu.3012._/)
