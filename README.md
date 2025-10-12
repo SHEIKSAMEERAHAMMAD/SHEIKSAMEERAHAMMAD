@@ -1,6 +1,7 @@
 <!-- Banner image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SHEIKSAMEERAHAMMAD/SHEIKSAMEERAHAMMAD/master/code.gif" alt="coding" width="100%" />
+  <img src="<img width="900" height="520" alt="image" src="https://github.com/user-attachments/assets/c0c1c8ba-d282-4418-b797-f3d1057db143" />
+" alt="coding" width="100%" />
 </p>
 ---
 
