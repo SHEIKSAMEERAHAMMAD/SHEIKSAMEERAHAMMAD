@@ -37,6 +37,34 @@ A passionate developer who loves learning new technologies and building cool pro
     </td>
   </tr>
 </table>
+<div style="display: flex; justify-content: flex-end; align-items: flex-start;">
+  <div style="flex: 1; margin-right: 24px;">
+    <h3>🌐 Tech Stack</h3>
+    <b>Languages</b>
+    <ul>
+      <li>Python | Java</li>
+      <li>HTML | CSS | JavaScript</li>
+    </ul>
+    <b>Frameworks & Libraries</b>
+    <ul>
+      <li>Django</li>
+    </ul>
+    <b>Databases</b>
+    <ul>
+      <li>MySQL</li>
+    </ul>
+    <b>Tools & Platforms</b>
+    <ul>
+      <li>Git & GitHub</li>
+      <li>VS Code | IntelliJ | PyCharm | Eclipse</li>
+      <li>Anaconda</li>
+    </ul>
+  </div>
+  <div>
+    <img src="YOUR_IMAGE_URL" width="130" style="border-radius:10px;">
+  </div>
+</div>
+
 ### 🧠 Tech Stack
 
 **Languages**
