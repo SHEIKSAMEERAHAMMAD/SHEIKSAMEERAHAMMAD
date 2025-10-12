@@ -17,7 +17,7 @@ A passionate developer who loves learning new technologies and building cool pro
 - Django 
 
 **Databases**
-- MySQL | SQLite  
+- MySQL 
 
 **Tools & Platforms**
 - Git & GitHub  
