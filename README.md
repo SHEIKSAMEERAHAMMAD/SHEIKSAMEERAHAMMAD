@@ -8,8 +8,8 @@
 A passionate developer who loves learning new technologies and building cool projects.
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40"/>
+<p align="left">
+  <img src="https://github.com/SHEIKSAMEERAHAMMAD/SHEIKSAMEERAHAMMAD/blob/main/all%20in%20one.png" width="40" height="40"/>
 </p>
 ### 🧠 Tech Stack
 
