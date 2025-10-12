@@ -14,7 +14,7 @@ A passionate developer who loves learning new technologies and building cool pro
       <img src="https://github.com/SHEIKSAMEERAHAMMAD/SHEIKSAMEERAHAMMAD/blob/main/all%20in%20one.png" width="130" style="border-radius:10px;">
     </td>
     <td style="vertical-align:top; padding-left:24px;">
-      <h3>🌐 Tech Stack</h3>
+      <h3>🧠 Tech Stack</h3>
       <b>Languages</b>
       <ul>
         <li>Python | Java</li>
@@ -37,25 +37,6 @@ A passionate developer who loves learning new technologies and building cool pro
     </td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/SHEIKSAMEERAHAMMAD/SHEIKSAMEERAHAMMAD/blob/main/all%20in%20one.png" width="120" />
-    </td>
-    <td>
-      <ul>
-        <li><b>Languages</b>: Python, Java, HTML, CSS, JavaScript</li>
-        <li><b>Frameworks & Libraries</b>: Django</li>
-        <li><b>Databases</b>: MySQL</li>
-        <li><b>Tools & Platforms</b>: Git, GitHub, VS Code, IntelliJ, PyCharm, Eclipse, Anaconda</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<p align="right">
-  <img src="https://github.com/SHEIKSAMEERAHAMMAD/SHEIKSAMEERAHAMMAD/blob/main/all%20in%20one.png" width="100" height="100"/>
-</p>
 ### 🧠 Tech Stack
 
 **Languages**
