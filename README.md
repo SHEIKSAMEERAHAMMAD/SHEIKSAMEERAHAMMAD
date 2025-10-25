@@ -10,7 +10,11 @@ A passionate developer who loves learning new technologies and building cool pro
 ---
 
 ### 🧠 Tech Stack
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_Light.gif">
+  <img align="right" width="45%" alt="Skills Animation" src="./Skills_Animation_Light.gif">
+</picture>
 **Languages**
 - Python | Java  
 - HTML | CSS | JavaScript  
