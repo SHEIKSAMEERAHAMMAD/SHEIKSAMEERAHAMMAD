@@ -35,6 +35,7 @@ A passionate developer who loves learning new technologies and building cool pro
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sameer-ahammad-sheik-407b1925a/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail)](mailto:sameerahammadsheik@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=instagram)](https://www.instagram.com/_sammu.3012._/)
+[![Portfolio](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=portfolio)](https://sameer-ahammad-sheik.lovable.app/)
