@@ -38,4 +38,4 @@ A passionate developer who loves learning new technologies and building cool pro
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sameer-ahammad-sheik-407b1925a/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail)](mailto:sameerahammadsheik@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=instagram)](https://www.instagram.com/_sammu.3012._/)
-[![Portfolio](💼)](https://sameer-ahammad-sheik.lovable.app/)
+[![Portfolio](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvfeN_JnxNrg&psig=AOvVaw0b0Vzm16-S8iQXqIugVXc5&ust=1761544490657000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKD_3NuWwZADFQAAAAAdAAAAABAE)](https://sameer-ahammad-sheik.lovable.app/)
